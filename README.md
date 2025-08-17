@@ -1,2 +1,2 @@
 # MachineLearning
-My all Machine Learning projects are here
+My learning journey in Machine Learning – notes, code, assignments, and projects.
